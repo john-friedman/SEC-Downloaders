@@ -1,0 +1,10 @@
+setup.py
+data/__init__.py
+data/basic_company_data.csv
+sec_downloaders/__init__.py
+sec_downloaders/sec_downloaders.py
+sec_downloaders.egg-info/PKG-INFO
+sec_downloaders.egg-info/SOURCES.txt
+sec_downloaders.egg-info/dependency_links.txt
+sec_downloaders.egg-info/requires.txt
+sec_downloaders.egg-info/top_level.txt
