@@ -14,4 +14,4 @@ download = downloader.download(url)
 
 filing = Filing(download)
 filing.parse()
-filing.save_xml('test.xml')
+print(filing.get_title_tree())
