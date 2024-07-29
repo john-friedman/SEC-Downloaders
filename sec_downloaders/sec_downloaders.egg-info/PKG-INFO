@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: sec-downloaders
-Version: 0.3
+Version: 0.4
 Summary: A package to download SEC filings
 Home-page: https://github.com/john-friedman/SEC-Downloaders
 Author: John Friedman
